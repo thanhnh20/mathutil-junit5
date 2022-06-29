@@ -30,7 +30,7 @@ public class MathUtilTest {
         return new Integer[][]{
                         {1,1},
                         {2,2},
-                        {4,120},
+                        {5,120},
                         {6,720}                        
         };
     }
